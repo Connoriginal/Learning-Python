@@ -1,2 +1,2 @@
 # Learning-Python
-When I first learn Python in collage (age: 20)
+When I first learn Python in University (age: 20)
